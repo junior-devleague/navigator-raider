@@ -20,7 +20,7 @@ Web application navigations in beginner html, css, javascript. Responsive and mo
 <h2>Your Challenge</h2>
 <ul>
   <li>Fork and Clone this repository</li>
-  <li>Recreate the grid layouts using the requested CSS properties</li>
+  <li>Recreate the navigations using the requested CSS properties</li>
   <li>Show off: Don't forget to publish to github pages!</li>
 </ul>
 
